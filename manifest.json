@@ -1,6 +1,6 @@
 {
-    "name": "ikc shows",
-    "short_name": "ikc",
+    "name": "כניסה לתערוכה",
+    "short_name": "כניסה-לתערוכה",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
